@@ -2,7 +2,6 @@
 author = "July"
 date = 2020-10-03T06:00:00Z
 description = "First Hugo Page"
-draft = true
 image = ""
 image_webp = "/images/20200727_165651878_ios.jpg"
 title = "test"
