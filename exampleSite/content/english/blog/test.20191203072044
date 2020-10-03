@@ -1,0 +1,15 @@
++++
+author = "July"
+date = 2020-10-03T06:00:00Z
+description = "First Hugo Page"
+draft = true
+image = ""
+image_webp = "/images/20200727_165651878_ios.jpg"
+title = "test"
+
++++
+It took me seven hours to write my first hugo page.
+
+I wanted to do it in a traditional way to build a Hugo website using Terminal on my Mac, but that would take me another week to learn how to use it.
+
+It can be a good learning opportunity, but I am overwhelmed as it is just a tiny part of my entire works.. so, I'm starting it with Forestry and Netlify.
